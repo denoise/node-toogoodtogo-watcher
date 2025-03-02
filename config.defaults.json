@@ -1,17 +1,19 @@
 {
   "api": {
     "credentials": {
-      "email": "Email of your TooGoodToGo account."
+      "email": "eberendsen@ebm.cl"
     },
+    "deviceType": "IOS",
     "session": {},
     "headers": {
+      "Accept-Language": "en-GB"
     },
     "pollingIntervalInMs": 30000,
     "authenticationIntervalInMS": 3600000
   },
   "notifications": {
     "console": {
-      "enabled": false,
+      "enabled": true,
       "clear": true
     },
     "desktop": {
